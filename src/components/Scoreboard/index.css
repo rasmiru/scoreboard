@@ -1,0 +1,7 @@
+.teams-container {
+    display: flex;
+    align-items: center;
+    border: 2px solid rgb(210, 154, 148);
+    padding: 20px;
+    margin-top: 50px;
+}
